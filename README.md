@@ -1,6 +1,7 @@
 # Auto-Clicker
 Automate clicking events with an easy-to-use interface  
-Currently closed source, adding for my profile.
+Currently closed source, adding for my profile. 
+## Need Help? Join our <a href="https://discord.gg/TRDsYfNEV8">Discord</a>!
 
 <img width="707" height="454" alt="image" src="https://github.com/user-attachments/assets/1f9e6e87-bb04-4086-b844-67ec5bdd0d3e" />
 
